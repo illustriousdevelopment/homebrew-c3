@@ -1,6 +1,6 @@
 cask "c3" do
-  version "0.2.7"
-  sha256 "680a0459ef473ad11d88859ac2968dbd53745a6854a63e4bff2e92637a8bccab"
+  version "0.2.8"
+  sha256 "610b3e79b751ee1b82587cbf46cece10f38f4c395013b46ac92c049248a5ba39"
 
   url "https://github.com/illustriousdevelopment/c3/releases/download/v#{version}/C3_#{version}_aarch64.dmg"
   name "C3"
